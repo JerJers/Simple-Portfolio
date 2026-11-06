@@ -26,5 +26,3 @@ A personal portfolio website for Jeremiah Carbungco, a 4th year BS Computer Scie
 - CSS
 - JavaScript
 - Google Fonts (Bricolage Grotesque and DM Sans)
-
-## Project Structure
